@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/3.6.7.Final/152a97fc12d8d288763e19ae5b672c0b4943ba26/hibernate-core-3.6.7.Final.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/3.6.7.Final/5effa941e2581669e52249e87cc3fedc043779b6/hibernate-core-3.6.7.Final-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.6/cf4f67dae5df4f9932ae7810f4548ef3e14dd35e/antlr-2.7.6.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.6/604014ca080ee7d3547f044ff4bd2c6ebfc0b82b/antlr-2.7.6-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.1/40fb048097caeacdb11dbb33b5755854d89efdeb/commons-collections-3.1.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.1/a48ca211fd2a564425c2cb9b90cb0f9158cfce52/commons-collections-3.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/jstl/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/javassist/javassist/3.12.1.GA/526633327faa61aee448a519e8a4d53ec3057885/javassist-3.12.1.GA.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/javassist/javassist/3.12.1.GA/cc64c85182743e0e8166cfc072a4359e54bbc7e9/javassist-3.12.1.GA-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.20/66a2a9c6561dc2c3c6f0b924681c305be78f3377/mysql-connector-java-5.1.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/d8525661c5a0a05702fa41873d250d135031ec25/xml-apis-1.0.b2-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-commons-annotations/3.2.0.Final/ce990611448fc2865469e3b68d2fe76b050e3c4f/hibernate-commons-annotations-3.2.0.Final.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-commons-annotations/3.2.0.Final/6afdc971f4d4dbe7650dbc5ea4a67101779ca001/hibernate-commons-annotations-3.2.0.Final-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/1.0.1.Final/3306a165afa81938fc3d8a0948e891de9f6b192b/hibernate-jpa-2.0-api-1.0.1.Final.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/1.0.1.Final/574f65373b46a038332eb1a14acc3142bd9e9810/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/javax.transaction/jta/1.1/2ca09f0b36ca7d71b762e14ea2ff09d5eac57558/jta-1.1.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/javax.transaction/jta/1.1/d5dad66d06246bd2e1e369cebff27faa9beb065a/jta-1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" sourcepath="C:/Users/ivnan/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/46a386136c901748e6a3af67ebde6c22bc6b4524/slf4j-api-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Nandan_Backup/Software/Student DVD/Servlet/javax.servlet.jsp-api-2.3.2-b02.jar"/>
+	<classpathentry kind="lib" path="D:/Nandan_Backup/Software/Student DVD/Servlet/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
